@@ -4,7 +4,8 @@ A transistor-level 4 bit adder project, featuring custom designed PCB with SMD c
 
 
 ### Demo Video + project timeline journey
-***coming soon! waiting on PCB fab shipping***
+*coming soon! waiting on PCB fab shipping*
+
 Demo Video: 
 Behind The Scenes (the design & making of this project):
 
