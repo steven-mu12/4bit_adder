@@ -23,4 +23,5 @@ ONCE FINISHED IMAGE GOES HERE
 
 ### Source Files
 - The design files (both screenshots & Gerber files) for both first_layer and second_layer are located in the "altium_designs" folder
+- The schematics for both layers are in "schematics" folder (first_layer sucks btw, please look at second_layer, I spent way longer to make that one look prettier)
 - The calculations behind how I got to the resistance values are in the "calculations" folder
