@@ -5,11 +5,10 @@ A transistor-level 4 bit adder project, featuring custom designed PCB with SMD c
 
 ### Demo Video + How I Made It Video
 
-Demo Video: https://youtu.be/0b7SfbxbIe8
+Demo Video: https://youtu.be/0b7SfbxbIe8 </n>
 Behind The Scenes (the design & making of this project):
 
-
-ONCE FINISHED IMAGE GOES HERE
+<img src="adder.jpeg" width=500></img>
 
 
 ### What I Used & What I Did
